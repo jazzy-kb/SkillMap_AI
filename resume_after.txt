@@ -1,0 +1,4 @@
+Name: Demo User
+Summary: Completed SQL and data visualization courses. Built projects using python, pandas, SQL and Tableau.
+Skills: python, pandas, sql, tableau, data visualization, git, linux, communication
+Experience: Data Dashboard using SQL and Tableau; ML mini-project (scikit-learn)

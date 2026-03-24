@@ -1,0 +1,130 @@
+{
+  "aws": [
+    {
+      "question": "Which AWS service provides scalable compute capacity in the cloud?",
+      "options": [
+        "Amazon S3",
+        "Amazon EC2",
+        "Amazon RDS",
+        "Amazon VPC"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the primary purpose of Amazon S3?",
+      "options": [
+        "Running virtual servers",
+        "Storing objects like files and images",
+        "Managing relational databases",
+        "Delivering content globally"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which AWS service is a fully managed relational database service?",
+      "options": [
+        "Amazon DynamoDB",
+        "Amazon Redshift",
+        "Amazon RDS",
+        "Amazon Aurora"
+      ],
+      "correct": 2
+    }
+  ],
+  "excel": [
+    {
+      "question": "What is the primary purpose of a cell reference like 'A1' in Excel?",
+      "options": [
+        "To identify a specific cell's location",
+        "To name a worksheet",
+        "To define a range of cells",
+        "To create a new workbook"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which Excel feature allows you to quickly reorder data based on one or more columns?",
+      "options": [
+        "Conditional Formatting",
+        "Data Validation",
+        "Sort & Filter",
+        "PivotTable"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is the correct way to start a formula in an Excel cell?",
+      "options": [
+        "+",
+        "-",
+        "=",
+        "("
+      ],
+      "correct": 2
+    }
+  ],
+  "deep learning": [
+    {
+      "question": "What is the core component of a Neural Network?",
+      "options": [
+        "A Perceptron/Neuron",
+        "A Row of Data",
+        "A Database Connection",
+        "A Training Script"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which framework is commonly used for Deep Learning?",
+      "options": [
+        "Pandas",
+        "NumPy",
+        "TensorFlow/PyTorch",
+        "SciPy"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is a major advantage of using a CNN?",
+      "options": [
+        "Predicting stock prices",
+        "Image classification",
+        "Basic data sorting",
+        "Generating simple text"
+      ],
+      "correct": 1
+    }
+  ],
+  "machine learning": [
+    {
+      "question": "Which algorithm is used for finding the best-fit line in data?",
+      "options": [
+        "Logistic Regression",
+        "K-Means Clustering",
+        "Linear Regression",
+        "Decision Trees"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is the primary goal of unsupervised learning?",
+      "options": [
+        "To predict a continuous value",
+        "To classify data into known categories",
+        "To find hidden patterns and structures",
+        "To train an agent using rewards"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What does the 'F1 Score' measure in classification?",
+      "options": [
+        "The total prediction count",
+        "The harmonic mean of Precision and Recall",
+        "The overall accuracy rate",
+        "The speed of training"
+      ],
+      "correct": 1
+    }
+  ]
+}

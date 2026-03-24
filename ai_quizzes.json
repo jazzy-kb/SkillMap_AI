@@ -1,0 +1,66 @@
+{
+  "aws": [
+    {
+      "question": "Which AWS service provides scalable compute capacity in the cloud?",
+      "options": [
+        "Amazon S3",
+        "Amazon EC2",
+        "Amazon RDS",
+        "Amazon VPC"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the primary purpose of Amazon S3?",
+      "options": [
+        "Running virtual servers",
+        "Storing objects like files and images",
+        "Managing relational databases",
+        "Delivering content globally"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which AWS service is a fully managed relational database service?",
+      "options": [
+        "Amazon DynamoDB",
+        "Amazon Redshift",
+        "Amazon RDS",
+        "Amazon Aurora"
+      ],
+      "correct": 2
+    }
+  ],
+  "excel": [
+    {
+      "question": "What is the primary purpose of a cell reference like 'A1' in Excel?",
+      "options": [
+        "To identify a specific cell's location",
+        "To name a worksheet",
+        "To define a range of cells",
+        "To create a new workbook"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which Excel feature allows you to quickly reorder data based on one or more columns?",
+      "options": [
+        "Conditional Formatting",
+        "Data Validation",
+        "Sort & Filter",
+        "PivotTable"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is the correct way to start a formula in an Excel cell?",
+      "options": [
+        "+",
+        "-",
+        "=",
+        "("
+      ],
+      "correct": 2
+    }
+  ]
+}

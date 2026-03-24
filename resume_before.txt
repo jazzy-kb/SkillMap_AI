@@ -1,0 +1,4 @@
+Name: Demo User
+Summary: Recent graduate with coursework in basic Python and HTML/CSS. Completed a few projects using python, html and css. Familiar with git and linux basics.
+Skills: python, html, css, git, linux, communication
+Experience: small academic projects using python and html.
